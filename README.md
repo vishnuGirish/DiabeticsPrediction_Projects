@@ -9,12 +9,12 @@ https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 ## Dataset details
 ===================
 
-##Description:
+Description:
 ============
 
 To predict wheather a patient had diabetics
 
-##Introduction
+Introduction
 ============
 
 Diabetics is a chronic disease or group of metabolic disease where a person suffers from an extented level of blood glucose in the body.
@@ -22,7 +22,7 @@ The objective of the dataset is to diagnostically predict wheather or not a pati
 The dataset consists of several independent variable and one dependent variable ie Outcome. Independent variables includes, the number of pregnancies the patient has had,their BMI,insulin level,Blood pressure, Glucose, Skin thickness, age.It is a classification type dataset
 
 
-##Attributes Information
+Attributes Information
 ======================
 
 1: Pregnancies: Number of times pregnant
