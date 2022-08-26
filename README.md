@@ -56,6 +56,7 @@ Steps
 
 4. Feature engineering
    * Missing value treatment
+   * Categorical encoding
    * Outlier treatment 
 
 5. Train Test split
